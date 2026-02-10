@@ -1,6 +1,6 @@
 name = "rv"
 
-version = "2024.1.0"
+version = "2025.1.0"
 
 authors = [
     "Autodesk"
